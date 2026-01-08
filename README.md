@@ -1,3 +1,6 @@
+![Dashboard Preview](Screenshots/dashboard_overview.png)
+
+
 # IPL Analysis Dashboard (2008–2025) | Power BI
 
 ## Project Overview
