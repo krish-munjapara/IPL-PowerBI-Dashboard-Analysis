@@ -12,7 +12,7 @@ Built an interactive Power BI dashboard to analyze IPL data from 2008–2025 usi
 
 Watch the complete dashboard walkthrough:
 
-[▶ Watch Dashboard Demo](./IPL_Dashboard_Demo.mp4)
+[▶ Watch Dashboard Demo](https://github.com/user-attachments/assets/d9261427-d047-449c-873e-2d78e4e2594b)
 
 ---
 
